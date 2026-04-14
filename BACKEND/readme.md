@@ -38,4 +38,4 @@ This project is built to demonstrate **core Java concepts**, including:
 ---
 
 ## 👨‍💻 Author
-**Sakib Sheikh**
+**Sakib Sabir Sheikh**
